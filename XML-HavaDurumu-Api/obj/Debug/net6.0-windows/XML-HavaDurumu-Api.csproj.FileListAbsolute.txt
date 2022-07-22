@@ -1,0 +1,17 @@
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML-HavaDurumu-Api.csproj.AssemblyReference.cache
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML_HavaDurumu_Api.Form1.resources
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML-HavaDurumu-Api.csproj.GenerateResource.cache
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML-HavaDurumu-Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML-HavaDurumu-Api.AssemblyInfoInputs.cache
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML-HavaDurumu-Api.AssemblyInfo.cs
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML-HavaDurumu-Api.csproj.CoreCompileInputs.cache
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\bin\Debug\net6.0-windows\XML-HavaDurumu-Api.exe
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\bin\Debug\net6.0-windows\XML-HavaDurumu-Api.deps.json
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\bin\Debug\net6.0-windows\XML-HavaDurumu-Api.runtimeconfig.json
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\bin\Debug\net6.0-windows\XML-HavaDurumu-Api.dll
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\bin\Debug\net6.0-windows\XML-HavaDurumu-Api.pdb
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML-HavaDurumu-Api.dll
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\refint\XML-HavaDurumu-Api.dll
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML-HavaDurumu-Api.pdb
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\XML-HavaDurumu-Api.genruntimeconfig.cache
+C:\Users\2018\source\repos\XML-HavaDurumu-Api\XML-HavaDurumu-Api\obj\Debug\net6.0-windows\ref\XML-HavaDurumu-Api.dll
